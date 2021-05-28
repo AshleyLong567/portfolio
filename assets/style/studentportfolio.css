@@ -1,1 +1,57 @@
+body { 
+    background-color:pink ;
+    
+    }
+   
+  p {
+      max-width: 75%;
+  }
+  
+  
+   
+   
+  <table border="8" border-top-color= "yellow" style="color:blue;" background-color="red">
+        <caption>Float Exercises</caption> <!--Caption of the table-->
+  <tbody>
+   <tr>
+    <th scope="col">Float</th> <!--specifies the columns-->
+    <th scope="col">Absolute</th>
+   
+   </tr>
+   <tr> 
+    <td> <!--Start of Column1, row1-->
+    <a href="positioning-lab/float-1.html">
+    <div style="color:blue;">
+      Float 1
+    </div>
+    </a>
+    </td>
+    
+    <td><!--Start of Column2, row1-->
+    <a href="positioning-lab/float-2.html">
+    <div style="color:blue;">
+      Float 2
+    </div>
+    </a>
+    </td>
+   
+   </tr>
+   <tr>
+    <td><!--Start of Column1, row2--> 
+    <a href="positioning-lab/absolute-1.html">
+    <div style="color:blue;">
+      Absolute 1
+    </div>
+    </a>
+    </td>
+   
+    <td><!--Start of Column2, row2-->
+         <a href="positioning-lab/absolute-2.html">
+    <div style="color:blue;">
+      Absolute 2
+    </div>
+    </a> 
+    </td>
+    </tr>
+
 
