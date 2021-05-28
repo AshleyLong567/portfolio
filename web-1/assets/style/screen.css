@@ -1,5 +1,6 @@
 
 body {
   background-image: url("/assets/images/webpage-background.jpg");
+  width: 500px;
   background-repeat: repeat-x;
 }
