@@ -43,7 +43,9 @@
   border-top: none;
 }
 
-
+.header {
+    font-family: "Lucida Handwriting", cursive;
+}
 
 
 .main {
