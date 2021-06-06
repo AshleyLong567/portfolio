@@ -8,6 +8,18 @@
   }
   */
  /* Style the tab */
+
+/*styles for writing on page */
+.header {
+    font-family: "Lucida Handwriting", cursive;
+    color: blue;
+    text-align: center;
+}
+
+
+
+
+
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
@@ -43,34 +55,4 @@
   border-top: none;
 }
 
-.header {
-    font-family: "Lucida Handwriting", cursive;
-    color: blue;
-}
 
-
-.main {
-  display: flex; /* we will talk about this later ... */
-  --s: 100px;  /* size  */
-  --m: 4px;   /* margin */
-}
-
-.container {
-  font-size: 0; /* disable white space between inline block element */
-}
-
-.container div {
-  width: var(--s);
-  margin: var(--m);
-  height: calc(var(--s) * 1.1547);
-  display: inline-block;
-  font-size: initial; /* we reset the font-size if we want to add some content */
-  clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0%);
-}
-.container::before {
-  content: "";
-  width: calc(var(--s) / 2 + var(--m));
-  float: left;
-  height: 120%; 
-  shape-outside: repeating-linear-gradient(#0000 0 calc(var(--f) - 3px), #000 0 var(--f));
-}
