@@ -13,9 +13,9 @@ p {
 /*styles for writing on page */
 .header {
     font-family: "Lucida Handwriting", cursive;
-    color: blue;
+    color: black;
     text-align: center;
-    text-shadow: 2px 2px 5px pink;
+    text-shadow: 2px 2px 8px pink;
 }
 
 
