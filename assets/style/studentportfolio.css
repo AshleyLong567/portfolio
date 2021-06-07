@@ -1,9 +1,10 @@
-/*body { 
-    background-color:pink ;
+body { 
+ background-image: url("images/background.jpeg");
     
     }
    
-  p {
+/* 
+p {
       max-width: 75%;
   }
   */
