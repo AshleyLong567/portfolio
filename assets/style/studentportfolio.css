@@ -14,7 +14,7 @@ p {
 .header {
     font-family: "Lucida Handwriting", cursive;
     color: black;
-    text-align: center;
+    text-align: left;
     text-shadow: 2px 2px 8px pink;
 }
 
