@@ -1,16 +1,13 @@
-body { 
- background-image: url(images/background.jpeg);
-    
-    }
+
    
-/* 
+
 p {
       max-width: 75%;
   }
   */
  /* Style the tab */
 
-/*styles for writing on page */
+/*styles for writing on homepage */
 .header {
     font-family: "Lucida Handwriting", cursive;
     color: black;
@@ -63,5 +60,30 @@ p {
   border-top: none;
   background-color: white;
 }
+
+
+/*styles for writing on resume.html */
+
+.head {
+ font-color: green;
+ font-size: 20px;
+ text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
