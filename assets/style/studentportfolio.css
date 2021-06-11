@@ -13,7 +13,7 @@ p {
     color: black;
     font-size: 50px;
     text-align: left, down 60px;
-    text-shadow: 8px 8px 14px pink;
+    text-shadow: 8px 8px 14px hotpink;
 }
 
 
@@ -37,7 +37,7 @@ p {
   border-right-color:pink;  /* Blue */
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
+  padding: 10px 10px;
   transition: 0.3s;
   font-family: "Lucida Handwriting", cursive;
 }
