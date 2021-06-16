@@ -29,7 +29,7 @@ p {
 /* Style the buttons that are used to open the tab content */
 .tab button {
   background-color: inherit;
-  float: left;
+  float: center;
   border:5px solid;
   border-bottom-color:hotpink; /* Green */
   border-top-color:hotpink;    /* Red */
