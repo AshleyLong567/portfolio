@@ -31,10 +31,10 @@ p {
   background-color: inherit;
   float: left;
   border:5px solid;
-  border-bottom-color:pink; /* Green */
-  border-top-color:pink;    /* Red */
-  border-left-color:pink;   /* Black */
-  border-right-color:pink;  /* Blue */
+  border-bottom-color:hotpink; /* Green */
+  border-top-color:hotpink;    /* Red */
+  border-left-color:hotpink;   /* Black */
+  border-right-color:hotpink;  /* Blue */
   outline: none;
   cursor: pointer;
   padding: 10px 10px;
