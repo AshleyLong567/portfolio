@@ -6,6 +6,25 @@
   
 }
 
+.alert {
+  background-color: white;
+  color: blue;
+}
+
+.h2 {
+  color: blue;
+  
+}
+
+.h3 {
+  color: blue;
+}
+
+.h4 {
+  color: blue;
+  
+}
+
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
