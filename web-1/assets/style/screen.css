@@ -1,5 +1,10 @@
 
-
+.image {
+  border-style: solid;
+  margin: 50px 50px 50px 50px;
+  float: right;
+  
+}
 
 .tab {
   overflow: hidden;
