@@ -15,10 +15,10 @@ body {
   background-color: inherit;
   float: center;
   border:5px solid;
-  border-bottom-color:hotpink; /* Green */
-  border-top-color:hotpink;    /* Red */
-  border-left-color:hotpink;   /* Black */
-  border-right-color:hotpink;  /* Blue */
+  border-bottom-color:black; /* Green */
+  border-top-color:black;    /* Red */
+  border-left-color:black;   /* Black */
+  border-right-color:black;  /* Blue */
   outline: none;
   cursor: pointer;
   padding: 10px 5px;
