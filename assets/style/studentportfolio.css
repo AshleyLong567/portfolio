@@ -7,6 +7,13 @@ p {
   */
  /* Style the tab */
 
+div#nav{
+  text-align: center;
+}
+div#nav ul{
+  display: inline-block;
+}
+
 /*styles for writing on homepage */
 .name {
     font-family: "Lucida Handwriting", cursive;
