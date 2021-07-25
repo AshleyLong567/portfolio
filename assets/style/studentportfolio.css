@@ -7,12 +7,7 @@ p {
   */
  /* Style the tab */
 
-div#nav{
-  text-align: center;
-}
-div#nav ul{
-  display: inline-block;
-}
+
 
 /*styles for writing on homepage */
 .name {
@@ -30,12 +25,7 @@ div#nav ul{
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: white;
-   
-   float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+ 
 }
 
 /* Style the buttons that are used to open the tab content */
